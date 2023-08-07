@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Sikiru, a Backend and DevOps engineer using PHP Laravel, Docker, GitHub Actions, Jenkins, Ansible, K8's, and Microsoft Azure DevOps!
+## Hey there! 👋 I'm Sikiru, a Backend and DevOps engineer using PHP Laravel | Docker | GitHub Actions | Jenkins | Ansible | K8's | and Microsoft Azure DevOps!
 
 As a software and DevOps engineer, I thrive on creating data-driven cloud applications in different sectors to make the life of users better. With over 3 years of hands-on experience, I've used PHP Laravel to build web applications in the Transportation, Hospitality, and Estate management sector at both local and International levels, such as in the EMEA region, NOAM.
 
