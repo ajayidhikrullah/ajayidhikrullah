@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Sikiru, a Microsoft Technical support engineer and enthusiastic Microsoft Azure DevOps engineer using PHP Laravel | Docker | Git & GitHub Actions | Jenkins | Ansible | K8's | and Microsoft Azure DevOps!
+## Hey there! 👋 I'm Sikiru, a Microsoft Technical support engineer and enthusiastic Microsoft Azure DevOps - Software Engineer using PHP Laravel | Docker | Git & GitHub Actions | Jenkins | Ansible | K8's | and Microsoft Azure DevOps.
 
 As a Technical support engineer, I thrive on ensuring my customers are happy, put myself in their shoes, and resolve all that concerns the product for them. I have supported varieties of cloud applications in different sectors to make the life of users better. With over 3 years of hands-on experience, I've resolved, diagnosed, guided, troubleshoot, controlled, and direct over 5000 customers of over 5000 tickets or support queries, and built strong relationships between the organization and the customer.
 
@@ -12,8 +12,8 @@ My Superpowers: 💻 Php Laravel, MySQL | ☁️ Microsoft Azure | 🌐 GCP | �
 
 - Improving on how to improve the lives of customers/end-users through technical documentation.
 - 🌱 I’m currently diving deeper into Jenkins, Ansible and K8's.
-- 🔭 Technical support Engineer @[RicoRocks Digital Agency](https://ricorocks.co.uk)
+- 🔭 Technical support Engineer @[RicoRocks Digital Agency](https://ricorocks.co.uk), others... [Repo](https://github.com/deendin)
 - 🔭 Ex Cloud Support Engineer, Tek-Experts Nigeria.
 - 🔭 Ex Upwork -  Microsoft Partner
-- 📫 Kindly Hit me up on [LinkedIn](https://www.linkedin.com/in/sikiruajayi/) or shoot me an email at [Ajayi Sikiru](mailto:ajayidhikrullah@gmail.com)
+- 📫 Kindly Hit me up on [LinkedIn](https://www.linkedin.com/in/sikiruajayi/) or shoot me an email at [Ajayi Sikiru](mailto:adekunleajayi022@gmail.com)
 - ⚡ Fun fact: When I'm not coding or troubleshooting troublesome software/apps, you'll find me reading the Qur'an, playing football, jogging, or with Family! ✨✨✨
